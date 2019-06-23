@@ -18,8 +18,13 @@
 
     "discord.js": "11.5.1",
 
-    "request": "2.81.0"
+    "request": "2.81.0",
+ 
+    "simple-youtube-api": "5.2.0", 
 
+    "ytdl-core": "0.29.2", 
+
+    "FFmpeg": "4.1.3"
   }
 
 }
