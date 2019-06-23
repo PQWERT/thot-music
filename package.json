@@ -11,13 +11,10 @@
   "engines": {
 
     "node": "12.4.0",
-  }
 
-  "scripts" : {
+  "scripts": {
 
-    "start" : "node Bot.js" 
-  } 
-
+    "start": "node Bot.js",  
 }, 
 
   "dependencies": {
@@ -44,7 +41,7 @@
 
     "opusscript": "0.0.6", 
 
-    "@discordjs/uws": "11.149.1" 
+    "@discordjs/uws": "11.149.1", 
   }
 
 }
