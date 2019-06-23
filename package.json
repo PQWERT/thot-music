@@ -1,0 +1,25 @@
+{
+
+  "name": "thot-music",
+
+  "description": "musicbot",
+
+  "version": "1.0.0",
+
+  "main": "Bot.js",
+
+  "scripts": {
+
+    "start": "node Bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.5.1",
+
+    "request": "2.81.0"
+
+  }
+
+}
