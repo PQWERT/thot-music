@@ -11,12 +11,12 @@
   "engines": {
 
     "node": "12.4.0",
-
-  "scripts": 
+  }
+  "scripts": {
 
     "start": "node Bot.js" 
-
-  },
+  } 
+}, 
 
   "dependencies": {
 
