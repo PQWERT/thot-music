@@ -4,17 +4,17 @@
 
   "description": "musicbot",
 
-  "version": "1.0.0",
+  "version":"1.0.0",
 
+  "engines": {
+
+    "node": "12.4.0",
+  } 
   "main": "Bot.js",
 
   "scripts": {
 
-    "start": "node Bot.js"
-
-  "engines":
-
-    "node": "12.4.0", 
+    "start": "node Bot.js" 
 
   },
 
