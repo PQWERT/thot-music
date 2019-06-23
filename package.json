@@ -24,7 +24,9 @@
 
     "ytdl-core": "0.29.2", 
 
-    "ffmpeg": "0.0.4"
+    "ffmpeg": "0.0.4", 
+
+    "ffmpeg-static": "2.4.0" 
   }
 
 }
