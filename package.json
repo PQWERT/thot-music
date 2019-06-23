@@ -15,6 +15,7 @@
   "scripts": {
 
     "start": "node Bot.js",  
+
 }, 
 
   "dependencies": {
