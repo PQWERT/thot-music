@@ -12,9 +12,9 @@
 
     "start": "node Bot.js"
 
-  "engines": {
+  "engines":
 
-    "node": "12.4.0"
+    "node": "12.4.0", 
 
   },
 
