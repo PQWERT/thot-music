@@ -12,6 +12,8 @@
 
     "start": "node Bot.js"
 
+  "engines": {
+    "node": "12.4.0"
   },
 
   "dependencies": {
