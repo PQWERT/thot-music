@@ -40,7 +40,7 @@
 
     "opusscript": "0.0.6", 
 
-    "@discordjs/uws": "11.149.1", 
+    "@discordjs/uws": "11.149.1" 
   }
 
 }
