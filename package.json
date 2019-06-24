@@ -24,7 +24,7 @@
 
     "request": "2.81.0",
  
-    "node-gyp": "5.0.1", 
+    "node-gyp": "3.8.0", 
 
     "simple-youtube-api": "5.2.0", 
 
