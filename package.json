@@ -33,8 +33,6 @@
 
     "libsodium-wrappers": "0.7.3",
 
-    "sodium": "2.0.3", 
-
     "node-opus": "0.3.2", 
 
     "opusscript": "0.0.6"
