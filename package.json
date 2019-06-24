@@ -6,12 +6,7 @@
 
   "version":"1.5.0",
 
-  "main": "Bot.js",
-
-  "engines": {
-
-    "node": "12.4.0"
-  }, 
+  "main": "Bot.js", 
 
   "scripts": {
 
@@ -21,6 +16,8 @@
   "dependencies": {
 
     "discord.js": "11.5.1",
+
+    "node-gyp-build": "4.1.0",
 
     "request": "2.81.0",
   
@@ -37,6 +34,8 @@
     "libsodium-wrappers": "0.7.3",
 
     "sodium": "2.0.3", 
+
+    "node-opus": "0.3.2", 
 
     "opusscript": "0.0.6"
   }
