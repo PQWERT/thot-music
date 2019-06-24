@@ -4,17 +4,21 @@
 
   "description": "musicbot",
 
-  "version":"1.0.0",
+  "version":"1.5.0",
 
   "main": "Bot.js",
 
   "engines": {
 
     "node": "12.4.0",
+ } 
+}, 
 
   "scripts": {
 
     "start": "node Bot.js",  
+  } 
+}, 
 
   "dependencies": {
 
@@ -42,5 +46,4 @@
 
     "@discordjs/uws": "11.149.1" 
   }
-
 }
